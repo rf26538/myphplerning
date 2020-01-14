@@ -52,4 +52,5 @@
 		echo $pomgranet->color;
 			echo "<br>";
 		echo $pomgranet->name;
+
 ?>
